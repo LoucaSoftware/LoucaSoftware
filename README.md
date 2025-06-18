@@ -16,8 +16,8 @@
   <a href="https://www.rust-lang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/></a>
   
 </p>
-
-## 🧰 Toolbox
+<i class="fab fa-github"></i> Mon GitHub
+## 🧰 My Toolbox
 
 <p align="left">
   <!-- C++ -->
