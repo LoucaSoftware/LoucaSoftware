@@ -5,5 +5,5 @@
 
 <p align="center">
   📫 Comment me joindre : 
-  <a href="mailto:contact.cyprien@pm.me">contact.cyprien@pm.me</a>
+  <a href="mailto:loucasoftware@gmail.com">loucasoftware@gmail.com</a>
 </p>
