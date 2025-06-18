@@ -11,6 +11,20 @@
 ## 🛠️ Languages ⏏︎
 
 <p align="left">
+  <!-- C -->
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+
+  <!-- C++ -->
+  <a href="https://isocpp.org/" title="C++">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+
+   <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" title="JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
 
   <!-- HTML5 -->
   <a href="https://developer.mozilla.org/fr/docs/Web/HTML" title="HTML">
@@ -20,14 +34,8 @@
   <a href="https://developer.mozilla.org/fr/docs/Web/CSS" title="CSS">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   </a>
-    <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" title="JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-    <!-- C++ -->
-  <a href="https://isocpp.org/" title="C++">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
+
+
    <!-- Python -->
   <a href="https://www.python.org/" title="Python">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -91,6 +99,11 @@
   <!-- Git -->
   <a href="https://git-scm.com/" title="Git">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  </a>
+
+  <!-- Arduino -->
+  <a href="https://www.arduino.cc/" title="Arduino">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
   </a>
 
   <!-- Debian -->
