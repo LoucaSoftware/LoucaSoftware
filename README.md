@@ -11,9 +11,30 @@
 ## 🛠️ Languages ⏏︎
 
 <p align="left">
+
+  <!-- HTML5 -->
+  <a href="https://developer.mozilla.org/fr/docs/Web/HTML" title="HTML">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <!-- CSS3 -->
+  <a href="https://developer.mozilla.org/fr/docs/Web/CSS" title="CSS">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+    <!-- JavaScript -->
+  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" title="JavaScript">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
    <!-- Python -->
   <a href="https://www.python.org/" title="Python">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <!-- Swift -->
+  <a href="https://swift.org/" title="Swift">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
+  </a>
+  <!-- PHP -->
+  <a href="https://www.php.net/" title="PHP">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   </a>
   
   
@@ -26,6 +47,17 @@
   <a href="https://isocpp.org/" title="C++">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
+  
+  <!-- SolidWorks -->
+  <a href="https://www.solidworks.com/" title="SolidWorks">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidworks/solidworks-original.svg" alt="SolidWorks" width="40" height="40"/>
+  </a>
+  
+  <!-- Blender -->
+  <a href="https://www.blender.org/" title="Blender">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>
+  </a>
+  
 
   <!-- Java -->
   <a href="https://www.java.com/" title="Java">
@@ -34,14 +66,6 @@
   <!-- Linux -->
   <a href="https://www.kernel.org/" title="Linux">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <!-- HTML5 -->
-  <a href="https://developer.mozilla.org/fr/docs/Web/HTML" title="HTML5">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <!-- CSS3 -->
-  <a href="https://developer.mozilla.org/fr/docs/Web/CSS" title="CSS3">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   </a>
   <!-- Photoshop -->
   <a href="https://www.adobe.com/products/photoshop.html" title="Photoshop">
