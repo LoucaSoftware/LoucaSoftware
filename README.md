@@ -45,6 +45,71 @@
   </a>
 </p>
 
+## ⌥ My UIUX and graphics tools ⌦
+<p align="left">
+  <!-- Behance -->
+  <a href="https://www.behance.net/" title="Behance" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/behance" alt="Behance" width="40" height="40"/>
+  </a>
+
+  <!-- Adobe -->
+  <a href="https://www.adobe.com/" title="Adobe" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/adobe" alt="Adobe" width="40" height="40"/>
+  </a>
+
+  <!-- Adobe Photoshop -->
+  <a href="https://www.adobe.com/products/photoshop.html" title="Adobe Photoshop" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/adobephotoshop" alt="Photoshop" width="40" height="40"/>
+  </a>
+
+  <!-- Adobe Fresco -->
+  <a href="https://www.adobe.com/products/fresco.html" title="Adobe Fresco" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/adobefresco" alt="Adobe Fresco" width="40" height="40"/>
+  </a>
+
+  <!-- Adobe Lightroom -->
+  <a href="https://www.adobe.com/products/photoshop-lightroom.html" title="Adobe Lightroom" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/adobelightroom" alt="Adobe Lightroom" width="40" height="40"/>
+  </a>
+
+  <!-- Adobe Illustrator -->
+  <a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/adobeillustrator" alt="Adobe Illustrator" width="40" height="40"/>
+  </a>
+
+  <!-- Adobe InDesign -->
+  <a href="https://www.adobe.com/products/indesign.html" title="Adobe InDesign" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/adobeindesign" alt="Adobe InDesign" width="40" height="40"/>
+  </a>
+
+  <!-- Adobe XD -->
+  <a href="https://www.adobe.com/products/xd.html" title="Adobe XD" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/adobexd" alt="Adobe XD" width="40" height="40"/>
+  </a>
+
+  <!-- Figma -->
+  <a href="https://www.figma.com/" title="Figma" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/figma" alt="Figma" width="40" height="40"/>
+  </a>
+
+  <!-- Procreate -->
+  <a href="https://procreate.art/" title="Procreate" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/procreate" alt="Procreate" width="40" height="40"/>
+  </a>
+
+  <!-- Affinity Designer -->
+  <a href="https://affinity.serif.com/en-us/designer/" title="Affinity Designer" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/affinitydesigner" alt="Affinity Designer" width="40" height="40"/>
+  </a>
+
+  <!-- Photomator (auto-héberge) -->
+  <a href="https://photomator.com/" title="Photomator" target="_blank" rel="noopener noreferrer">
+    <!-- Remplace l’URL ci-dessous par le lien raw de ton SVG Photomator dans ce repo -->
+    <img src="https://raw.githubusercontent.com/TON_USER/TON_REPO/main/assets/photomator.svg" alt="Photomator" width="40" height="40"/>
+  </a>
+</p>
+
+
 ## ⌘ My Toolbox ⌦
 
 <p align="left">
