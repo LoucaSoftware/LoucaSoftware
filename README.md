@@ -8,26 +8,25 @@
   <a href="mailto:loucasoftware@gmail.com">loucasoftware@gmail.com</a>
 </p>
 
-## 🛠️ Languages & Tools
+## 🛠️ Languages ⏏︎
 
 <p align="left">
-  <a href="https://www.arduino.cc/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/></a>
-  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://www.rust-lang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/></a>
+   <!-- Python -->
+  <a href="https://www.python.org/" title="Python">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  
   
 </p>
-<i class="fab fa-github"></i> Mon GitHub
-## 🧰 My Toolbox
+
+## ⌘ My Toolbox ⌦
 
 <p align="left">
   <!-- C++ -->
   <a href="https://isocpp.org/" title="C++">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
-  <!-- Python -->
-  <a href="https://www.python.org/" title="Python">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
+
   <!-- Java -->
   <a href="https://www.java.com/" title="Java">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
@@ -56,10 +55,7 @@
   <a href="https://git-scm.com/" title="Git">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   </a>
-  <!-- .NET Core -->
-  <a href="https://dotnet.microsoft.com/" title=".NET Core">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/>
-  </a>
+
   <!-- Debian -->
   <a href="https://www.debian.org/" title="Debian">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="Debian" width="40" height="40"/>
@@ -67,10 +63,6 @@
   <!-- Arch Linux -->
   <a href="https://archlinux.org/" title="Arch Linux">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" alt="Arch Linux" width="40" height="40"/>
-  </a>
-  <!-- Raspberry Pi -->
-  <a href="https://www.raspberrypi.org/" title="Raspberry Pi">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40"/>
   </a>
   <!-- Bash -->
   <a href="https://www.gnu.org/software/bash/" title="Bash">
