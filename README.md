@@ -24,6 +24,10 @@
   <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" title="JavaScript">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
+    <!-- C++ -->
+  <a href="https://isocpp.org/" title="C++">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
    <!-- Python -->
   <a href="https://www.python.org/" title="Python">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -43,14 +47,23 @@
 ## ⌘ My Toolbox ⌦
 
 <p align="left">
-  <!-- C++ -->
-  <a href="https://isocpp.org/" title="C++">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+
+<!-- 3D Printing & Modeling (Font Awesome “cube”) -->
+  <a href="https://en.wikipedia.org/wiki/3D_printing" title="3D Printing & Modeling">
+    <img
+      src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.0/svgs/solid/cube.svg"
+      alt="3D Printing & Modeling"
+      width="40" height="40"
+    />
   </a>
   
-  <!-- SolidWorks -->
+<!-- SolidWorks -->
   <a href="https://www.solidworks.com/" title="SolidWorks">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidworks/solidworks-original.svg" alt="SolidWorks" width="40" height="40"/>
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidworks/solidworks-original.svg"
+      alt="SolidWorks"
+      width="40" height="40"
+    />
   </a>
   
   <!-- Blender -->
